@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/username">
-    <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ikwfahmi">
+    <img src="https://komarev.com/ghpvc/?username=ikwfahmi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
