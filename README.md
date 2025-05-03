@@ -32,7 +32,7 @@
 
 ### 📈 GitHub Stats
 
-![Ikwfahmi GitHub stats](https://github-readme-stats.vercel.app/api?username=ikwfahmi)
+![ikwfahmi GitHub stats](https://github-readme-stats.vercel.app/api?username=ikwfahmi&show_icons=true&theme=transparent)
 
 ---
 
