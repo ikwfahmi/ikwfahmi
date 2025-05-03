@@ -46,15 +46,5 @@
 
 ---
 
-### 📫 Connect with me:
-
-<p>
-  <a href="https://linkedin.com/in/your-linkedin"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>
-  <a href="https://twitter.com/your_twitter"><img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" /></a>
-  <a href="mailto:email@example.com"><img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /></a>
-</p>
-
----
-
 > "Stay curious, break things, and build better."
 
