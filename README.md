@@ -32,10 +32,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" />
-</p>
+[![Ikwfahmi GitHub stats](https://github-readme-stats.vercel.app/api?username=ikwfahmi)]
 
 ---
 
