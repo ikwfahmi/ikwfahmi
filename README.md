@@ -13,35 +13,7 @@
 
 ---
 
-- 🔧 I build **custom Android-based OS** from scratch
-- 📱 I develop **mobile apps** using **Dart (Flutter)** and **Java**
-- 🚀 I love turning ideas into real products, especially on mobile platforms
-- 🌱 Currently learning **low-level Android system optimization & cross-platform architecture**
-- 📫 Reach me via **[mikhwanfahmi4@gmail.com]**
-- ⚡ Fun fact: I enjoy debugging system-level code as much as UI animations
-
----
-
-### 🛠️ Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio,git,linux,vscode,figma" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 ![ikwfahmi GitHub stats](https://github-readme-stats.vercel.app/api?username=ikwfahmi&&show_icons=true&theme=gruvbox)
-
----
-
-### 📲 Featured Projects
-
-- 🛠️ **Custom Android OS Build** — A tailored version of AOSP with enhanced performance & UI
-- 📱 **Mobile App Portfolio** — From utilities to full-stack apps using Flutter and Java
-
----
-
-> "Stay curious, break things, and build better."
 
