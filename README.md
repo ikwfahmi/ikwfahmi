@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Ikhwan Fahmi]</h1>
+<h1 align="center">Hi 👋, I'm Ikhwan Fahmi</h1>
 <h3 align="center">Mobile App Developer & Android OS Builder</h3>
 
 <p align="center">
