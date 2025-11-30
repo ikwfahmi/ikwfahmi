@@ -15,5 +15,4 @@
 
 ### 📈 GitHub Stats
 
-![ikwfahmi GitHub stats](https://github-readme-stats.vercel.app/api?username=ikwfahmi&&show_icons=true&theme=gruvbox)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?ikwfahmi=DenverCoder1)](https://git.io/streak-stats)
