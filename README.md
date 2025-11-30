@@ -15,4 +15,4 @@
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ikwfahmi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ikwfahmi&theme=dark)](https://git.io/streak-stats)
