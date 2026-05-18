@@ -1,8 +1,19 @@
 <div align="center">
+  <img src="img/github-header-banner.png" alt="header banner" width="73%" />
 
-  <img src="img/github-header-banner.png" alt="header banner" width="73%"/>
+  <br /><br />
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikwfahmi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage"/>
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikwfahmi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage"
+    alt="GitHub stats"
+    width="73%"
+  />
 
-  ![snake gif](https://github.com/ikwfahmi/ikwfahmi/blob/output/github-snake-dark.svg)
+  <br /><br />
+
+  <img
+    src="https://github.com/ikwfahmi/ikwfahmi/blob/output/github-snake-dark.svg"
+    alt="Contribution snake"
+    width="73%"
+  />
 </div>
